@@ -22,8 +22,8 @@ w niedzielę:
 
 1. Porozmawiać o Github Desktop.
 1. Powtórzyć notację Markdown.
-1. Markdown online.
-
+    - Markdown online.
+1. Tabelki.
 
 
 [1]: http://en.wikipedia.org/wiki/Hello_world_program
