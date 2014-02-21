@@ -1,3 +1,5 @@
+![D.M. Ritchie](http://en.wikipedia.org/wiki/File:Dennis_MacAlistair_Ritchie.jpg)
+
 ## Pierwsze programy w c
 
 Zwyczajowo zaczynamy od rogramu 
