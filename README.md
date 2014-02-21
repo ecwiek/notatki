@@ -1,4 +1,4 @@
-notatki
-=======
+## Pierwsze programy w c
 
-Notatki do wykładu 21.02.2014
+Zwyczajowo (kto to wymyślił?) zaczynamy od rogramu 
+*hellow world*:
